@@ -2,6 +2,7 @@
   "name": "mjolnix",
   "displayName": "Mjolnix",
   "description": "Mjolnix is a dark grey theme with light orange, red, and yellow accents for Visual Studio Code.",
+  "icon": "icon.png",
   "version": "1.0.0",
   "publisher": "AmeyRajeshShaligram",
   "license": "MIT",
@@ -14,7 +15,7 @@
     "dark",
     "vscode",
     "mjolnix",
-    "mjolnix theme"
+    "mjolnix theme",
     "ameysh",
     "dark grey",
     "orange",
