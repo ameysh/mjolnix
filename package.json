@@ -4,6 +4,7 @@
   "description": "Mjolnix is a dark grey theme with light orange, red, and yellow accents for Visual Studio Code.",
   "version": "1.0.0",
   "publisher": "AmeyRajeshShaligram",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/ameysh/mjolnix.git"
