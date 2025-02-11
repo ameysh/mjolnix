@@ -158,11 +158,11 @@
     "statusBar.border": "#1E1E2460",
     "statusBar.debuggingBackground": "#F6A600",
     "statusBar.debuggingForeground": "#FAB389",
-    "statusBar.foreground": "#F79256",
+    "statusBar.foreground": "#FAB389",
     "statusBar.noFolderBackground": "#1E1E24",
     "statusBarItem.hoverBackground": "#F7925620",
     "statusBarItem.remoteBackground": "#373743",
-    "statusBarItem.remoteForeground": "#F79256",
+    "statusBarItem.remoteForeground": "#FAB389",
     "tab.activeBackground": "#2a2a32",
     "tab.activeBorder": "#F79256",
     "tab.activeForeground": "#FAB389",
@@ -214,7 +214,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -241,7 +241,7 @@
     {
       "scope": ["constant.other.php"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -358,7 +358,7 @@
         "variable.parameter.keyframe-list.css"
       ],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -425,7 +425,7 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -467,7 +467,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "scope": ["entity.other.attribute-name", "support.function"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -536,7 +536,7 @@
     {
       "scope": ["source.scss keyword.control"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -554,7 +554,7 @@
     {
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -602,7 +602,7 @@
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -658,19 +658,19 @@
     {
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
@@ -704,7 +704,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#F06449"
+        "foreground": "#9FBBCC"
       }
     },
     {
