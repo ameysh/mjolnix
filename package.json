@@ -1,8 +1,13 @@
 {
   "name": "mjolnix",
   "displayName": "Mjolnix",
-  "description": "Mjolnix is a sleek and stylish VSCode theme. Perfect for developers that want a clean, immersive workspace. ",
+  "description": "Mjolnix is a sleek and stylish VSCode theme. Perfect for developers that want a clean, immersive workspace.",
   "version": "0.0.1",
+  "publisher": "AmeyRajeshShaligram",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
