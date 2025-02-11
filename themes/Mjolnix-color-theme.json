@@ -214,7 +214,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -241,7 +241,7 @@
     {
       "scope": ["constant.other.php"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -358,7 +358,7 @@
         "variable.parameter.keyframe-list.css"
       ],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -425,7 +425,7 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -467,7 +467,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "scope": ["entity.other.attribute-name", "support.function"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -536,7 +536,7 @@
     {
       "scope": ["source.scss keyword.control"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -554,7 +554,7 @@
     {
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -602,7 +602,7 @@
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -658,19 +658,19 @@
     {
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
@@ -704,7 +704,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#F6A600"
+        "foreground": "#F06449"
       }
     },
     {
