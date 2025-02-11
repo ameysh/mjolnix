@@ -1,16 +1,43 @@
-# mjolnix README
+# Mjolnix Theme for VS Code
 
-## Working with Markdown
+Mjolnix is a dark grey theme with light orange, red, and yellow accents for Visual Studio Code. The theme provides a comfortable viewing experience with carefully chosen colors for better code readability.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for `Mjolnix`
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+5. Select **Preferences: Color Theme** and choose **Mjolnix**
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Dark grey background that's easy on the eyes
+- Carefully selected accent colors:
+  - Light orange highlights
+  - Red accents
+  - Yellow emphasis
+- Consistent syntax highlighting
+- Clear contrast for better readability
+- Thoughtfully designed UI elements
+
+## Screenshots
+
+[Screenshots will be added here.]
+
+
+## Issues
+
+Found a bug or have a suggestion? Please open an issue on the [GitHub repository](https://github.com/ameysh/mjolnix/issues).
+
+## License
+
+This theme is released under the [MIT License](LICENSE).
+
+## Author
+
+Created by Amey Rajesh Shaligram
+
+---
 
 **Enjoy!**
