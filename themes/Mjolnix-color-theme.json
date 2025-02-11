@@ -163,7 +163,7 @@
     "statusBarItem.hoverBackground": "#F7925620",
     "statusBarItem.remoteBackground": "#373743",
     "statusBarItem.remoteForeground": "#F79256",
-    "tab.activeBackground": "#1E1E24",
+    "tab.activeBackground": "#2a2a32",
     "tab.activeBorder": "#F79256",
     "tab.activeForeground": "#FAB389",
     "tab.activeModifiedBorder": "#F79256",
@@ -327,7 +327,7 @@
         "comment.block.html"
       ],
       "settings": {
-        "foreground": "#6D6F7C"
+        "foreground": "#507255"
       }
     },
     {
