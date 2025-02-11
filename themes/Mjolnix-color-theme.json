@@ -276,7 +276,7 @@
         "entity.name.tag.reference.scss"
       ],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#10FFCB"
       }
     },
     {
@@ -308,7 +308,7 @@
     {
       "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#10FFCB"
       }
     },
     {
@@ -333,7 +333,7 @@
     {
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#10FFCB"
       }
     },
     {
@@ -691,7 +691,7 @@
     {
       "scope": ["meta.separator"],
       "settings": {
-        "foreground": "#A7A8AF",
+        "foreground": "#10FFCB",
         "fontStyle": "bold"
       }
     },
