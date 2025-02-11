@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.2
+
+- Added changelog
+
 ## v1.0.1
 
 - Added extension icon for VSCode Marketplace
