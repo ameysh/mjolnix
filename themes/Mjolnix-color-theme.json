@@ -162,7 +162,7 @@
     "statusBar.noFolderBackground": "#1E1E24",
     "statusBarItem.hoverBackground": "#F7925620",
     "statusBarItem.remoteBackground": "#373743",
-    "statusBarItem.remoteForeground": "#FAB389",
+    "statusBarItem.remoteForeground": "#F79256",
     "tab.activeBackground": "#2a2a32",
     "tab.activeBorder": "#F79256",
     "tab.activeForeground": "#FAB389",
