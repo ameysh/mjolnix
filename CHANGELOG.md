@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.3
+
+- Added theme screenshot
+
 ## v1.0.2
 
 - Added changelog
