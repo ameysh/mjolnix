@@ -1,10 +1,12 @@
 # Mjolnix Theme for VS Code
 
-Mjolnix is a dark grey theme with light orange, red, and yellow accents for Visual Studio Code. The theme provides a comfortable viewing experience with carefully chosen colors for better code readability.
+Mjolnix is a dark theme with light orange, red, and yellow accents for Visual Studio Code. The theme provides a comfortable viewing experience with carefully chosen colors for better code readability.
 
 ![Screenshot of Mjolnix Theme](screenshot.png)
 
 ## Installation
+
+Installing Mjolnix is the same as installing any other VS Code theme. You can simply download it from the Extensions panel.
 
 1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
 2. Search for `Mjolnix`
@@ -26,6 +28,10 @@ Mjolnix is a dark grey theme with light orange, red, and yellow accents for Visu
 ## Issues
 
 Found a bug or have a suggestion? Please open an issue on the [GitHub repository](https://github.com/ameysh/mjolnix/issues).
+
+## Contributing
+
+Interested in contributing? Please see [CONTRIBUTING](CONTRIBUTING.md)
 
 ## License
 
