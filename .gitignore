@@ -139,3 +139,4 @@ dist
 vsc-extension-quickstart.md
 
 .DS_Store
+*.vsix
