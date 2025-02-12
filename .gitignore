@@ -135,4 +135,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# VSCode Extension Development Quickstart (this has been covered in CONTRIBUTING.md already)
+vsc-extension-quickstart.md
+
 .DS_Store

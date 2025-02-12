@@ -36,17 +36,45 @@ If you have an idea for a new feature or theme enhancement, feel free to open a 
   npm install
   ```
 
+#### Getting Started
+
+The extension structure is straightforward:
+
+- `package.json` - manifest file defining theme location and base theme specifications
+- `themes/Mjolnix-color-theme.json` - the color theme definition file
+
+To start development:
+
+Press `F5` to open a new window with the extension loaded. Any changes you make to the theme will appear here.
+
+You can also:
+
+1. Test the theme:
+   - Use `File > Preferences > Theme > Color Theme` or `Ctrl+K Ctrl+T`
+   - Select "Mjolnix" from the theme picker
+2. Inspect token colors:
+   - Open a file with syntax highlighting
+   - Use `Developer: Inspect Editor Tokens and Scopes` (Command Palette: `Ctrl+Shift+P` or `Cmd+Shift+P`)
+     to examine token scopes
+
+Things to keep in mind:
+
+- Changes to the theme file are automatically applied in the Extension Development Host window
+- Token colorization uses standard TextMate themes
+- Colors are matched against one or more scopes
+
 #### Making Changes
 
 1. Create a new branch for your changes:
    ```sh
    git checkout -b feature-or-bugfix-name
    ```
-2. Modify the theme files (`themes/Mjolnix-color-theme.json` or others as needed)
-3. Test your changes live by opening the project in VSCode and pressing F5 to launch the debugger (or Run > Start Debugging)
-4. Ensure your changes align with the theme's design principles
-5. Commit your changes with a clear message
-6. Push your branch and open a Pull Request (PR)
+2. Test your changes
+3. Ensure your changes align with the theme's design principles
+4. Commit your changes with a clear message
+5. Push your branch and open a Pull Request (PR)
+
+For more details on scopes and theme development, see the [VSCode Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-theme).
 
 ### 4. Code Style & Guidelines
 
