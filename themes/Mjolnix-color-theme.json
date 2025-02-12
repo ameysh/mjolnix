@@ -52,7 +52,7 @@
     "editorMarkerNavigation.background": "#F9A67705",
     "editorOverviewRuler.border": "#1E1E24",
     "editorOverviewRuler.errorForeground": "#0A74DA40",
-    "editorOverviewRuler.findMatchForeground": "#F79256",
+    "editorOverviewRuler.findMatchForeground": "#f7915665",
     "editorOverviewRuler.infoForeground": "#F17C7C40",
     "editorOverviewRuler.warningForeground": "#F6A60070",
     "editorRuler.foreground": "#373743",
