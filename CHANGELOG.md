@@ -1,5 +1,13 @@
 # Change Log
 
+## v1.1.0
+
+- Improved comments visibility
+- Improved statusbar apperance when debugging
+- Added transparancy to certain elements for better visibility
+- Added contribution guidelines
+- Updated deprecated properties
+
 ## v1.0.3
 
 - Added theme screenshot
